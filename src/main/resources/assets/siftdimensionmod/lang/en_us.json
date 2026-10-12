@@ -1,0 +1,13 @@
+{
+  "item.siftdimensionmod.siftite_ore": "Siftite Ore",
+  "item.siftdimensionmod.siftite_ingot": "Siftite Ingot",
+  "item.siftdimensionmod.siftite_upgrade_template": "Siftite Upgrade Template",
+  "block.siftdimensionmod.siftite_block": "Siftite Block",
+  "item.siftdimensionmod.siftite_pickaxe": "Siftite Pickaxe",
+  "item.siftdimensionmod.siftite_helmet": "Siftite Helmet",
+  "item.siftdimensionmod.siftite_chestplate": "Siftite Chestplate",
+  "item.siftdimensionmod.siftite_leggings": "Siftite Leggings",
+  "item.siftdimensionmod.siftite_boots": "Siftite Boots",
+  "dimension.siftdimensionmod.sift_dimension": "Sift Dimension",
+  "message.siftdimensionmod.portal_created": "Sift Dimension portal created!"
+}

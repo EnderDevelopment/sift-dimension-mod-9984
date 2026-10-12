@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "siftdimensionmod",
+  "version": "${version}",
+  "name": "Sift Dimension Mod",
+  "description": "A Fabric mod for Minecraft 1.21.4 adding Sift Dimension with portal puzzle, Siftite ore mining, and Siftite armor crafting system.",
+  "authors": ["YourName"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "com.a17119973.siftdimensionmod.SiftDimensionMod"
+    ]
+  },
+  "minecraft": "${minecraft_version}",
+  "depends": {
+    "fabricloader": ">=0.15.7",
+    "fabric-api": "*",
+    "minecraft": "1.21.4"
+  }
+}
